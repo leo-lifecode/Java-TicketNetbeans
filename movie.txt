@@ -1,0 +1,48 @@
+
+Nama Film: Avengers
+Tiket Dewasa: 2
+Tiket Anak: 2
+Tanggal dan Waktu: Jumat, 27 Desember 2019 | 16:00
+Total Bayar: Rp 112200
+
+Nama Film: Parasite
+Tiket Dewasa: 1
+Tiket Anak: 2
+Tanggal dan Waktu: Jumat, 20 Desember 2019 | 10:00
+Total Bayar: Rp 71400
+
+Nama Film: Avengers End Game
+Tiket Dewasa: 1
+Tiket Anak: 1
+Tanggal dan Waktu: Jumat, 20 Desember 2019 | 08.00
+Total Bayar: 0
+
+Nama Film: Parasite
+Tiket Dewasa | No. Kursi: 2 | null null
+Tiket Anak | No. Kursi : 1 | null
+Tanggal dan Waktu: Jumat, 27 Desember 2019 | 10:00
+Total Bayar: Rp 96900
+
+Nama Film: Parasite
+Tiket Dewasa | No. Kursi: 2 | 4 6
+Tiket Anak | No. Kursi : 1 | 5 
+Tanggal dan Waktu: Rabu, 25 Desember 2019 | 00:00
+Total Bayar: Rp 96900
+
+Nama Film: Avengers
+Tiket Dewasa | No. Kursi: 2 | 2 4
+Tiket Anak | No. Kursi : 1 | 3 
+Tanggal dan Waktu: Jumat, 27 Desember 2019 | 12:00
+Total Bayar: Rp 96900
+
+Nama Film: Avengers End Game
+Tiket Dewasa | No. Kursi: 1 | 1000 2000
+Tiket Anak | No. Kursi : 1 | 1000 2000
+Tanggal dan Waktu: Jumat, 20 Desember 2019 | 08.00
+Total Bayar: Rp 56100
+
+Nama Film: INSIDE OUT 2
+Tiket Dewasa | No. Kursi: 2 | 01 02
+Tiket Anak | No. Kursi : 2 | 04 05
+Tanggal dan Waktu: Jumat, 21 Juni 2024   | 10:00
+Total Bayar: Rp 112200
